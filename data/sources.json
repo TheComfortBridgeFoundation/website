@@ -1,0 +1,44 @@
+[
+ {
+  "id": "medicare-hospice",
+  "url": "https://www.medicare.gov/coverage/hospice-care",
+  "paths": [
+   "pay",
+   "extra.pay"
+  ],
+  "note": "Medicare eligibility, costs, benefit periods, what is and isn't covered"
+ },
+ {
+  "id": "cms-hospice",
+  "url": "https://www.cms.gov/medicare/medicare-fee-for-service-payment/hospice",
+  "paths": [
+   "pay.levels"
+  ],
+  "note": "Levels of care, benefit periods"
+ },
+ {
+  "id": "alliance-facts",
+  "url": "https://allianceforcareathome.org/2025-facts-and-figures-report-now-available-to-alliance-members/",
+  "paths": [
+   "extra.gap"
+  ],
+  "note": "Hospice use among Medicare decedents. When a newer Facts and Figures report is released, update the URL in config.json gapSource too."
+ },
+ {
+  "id": "nia-palliative",
+  "url": "https://www.nia.nih.gov/health/hospice-and-palliative-care/what-are-palliative-care-and-hospice-care",
+  "paths": [
+   "pall",
+   "what"
+  ],
+  "note": "Definitions of palliative and hospice care"
+ },
+ {
+  "id": "hicap",
+  "url": "https://aging.ca.gov/HICAP/",
+  "paths": [
+   "local.lines"
+  ],
+  "note": "California help line numbers"
+ }
+]

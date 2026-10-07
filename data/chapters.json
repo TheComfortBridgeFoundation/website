@@ -1,0 +1,13 @@
+[
+ {
+  "id": "tri-valley",
+  "region": "California",
+  "status": "forming",
+  "cities": "Dublin, Pleasanton, Livermore",
+  "state": "CA",
+  "counties": [
+   "ALAMEDA",
+   "CONTRA COSTA"
+  ]
+ }
+]

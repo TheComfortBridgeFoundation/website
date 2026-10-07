@@ -1,0 +1,585 @@
+[
+ {
+  "n": "Medicare: Hospice care",
+  "u": "https://www.medicare.gov/coverage/hospice-care",
+  "w": "gov",
+  "t": [
+   "pay",
+   "understand"
+  ],
+  "L": [
+   "en",
+   "es"
+  ],
+  "d": {
+   "en": "Official rules on who qualifies, what is covered, costs, and benefit periods.",
+   "es": "Reglas oficiales sobre quién califica, qué se cubre, costos y períodos de beneficio.",
+   "vi": "Quy định chính thức về điều kiện, phạm vi chi trả, chi phí và các giai đoạn quyền lợi.",
+   "zh": "官方規定：資格、給付項目、費用與福利期。"
+  }
+ },
+ {
+  "n": "Medicare Hospice Benefits: Getting Started (PDF)",
+  "u": "https://www.medicare.gov/pubs/pdf/11361-Medicare-Hospice-Getting-Started.pdf",
+  "w": "gov",
+  "t": [
+   "pay"
+  ],
+  "L": [
+   "en"
+  ],
+  "d": {
+   "en": "Short printable booklet explaining the hospice benefit and your rights.",
+   "es": "Folleto breve para imprimir sobre el beneficio de hospicio y sus derechos.",
+   "vi": "Tập sách ngắn có thể in, giải thích quyền lợi hospice và quyền của quý vị.",
+   "zh": "可列印的簡短手冊，說明安寧福利與您的權利。"
+  }
+ },
+ {
+  "n": "Medicare Care Compare: Hospice",
+  "u": "https://www.medicare.gov/care-compare/",
+  "w": "gov",
+  "t": [
+   "find"
+  ],
+  "L": [
+   "en",
+   "es"
+  ],
+  "d": {
+   "en": "Find Medicare-approved hospices by ZIP code and compare family survey results.",
+   "es": "Busque hospicios aprobados por Medicare por código postal y compare encuestas de familias.",
+   "vi": "Tìm hospice được Medicare chấp thuận theo mã bưu điện và so sánh khảo sát của gia đình.",
+   "zh": "依郵遞區號查詢經 Medicare 核准的安寧機構，並比較家屬問卷結果。"
+  }
+ },
+ {
+  "n": "CMS: Hospice",
+  "u": "https://www.cms.gov/medicare/medicare-fee-for-service-payment/hospice",
+  "w": "gov",
+  "t": [
+   "pay"
+  ],
+  "L": [
+   "en"
+  ],
+  "d": {
+   "en": "Technical detail on eligibility, levels of care, and coinsurance.",
+   "es": "Detalles técnicos sobre elegibilidad, niveles de atención y coseguro.",
+   "vi": "Chi tiết kỹ thuật về điều kiện, mức độ chăm sóc và đồng bảo hiểm.",
+   "zh": "關於資格、照護等級和共同保險的技術細節。"
+  }
+ },
+ {
+  "n": "National Institute on Aging: End of life",
+  "u": "https://www.nia.nih.gov/health/end-of-life",
+  "w": "gov",
+  "t": [
+   "understand",
+   "care"
+  ],
+  "L": [
+   "en"
+  ],
+  "d": {
+   "en": "Research-based articles on comfort care, what to expect near death, and caregiving.",
+   "es": "Artículos basados en investigación sobre cuidados de bienestar, qué esperar y cuidados.",
+   "vi": "Bài viết dựa trên nghiên cứu về chăm sóc thoải mái, những gì xảy ra gần cuối đời và việc chăm sóc.",
+   "zh": "以研究為基礎的文章：舒適照護、臨終前的變化與照顧。"
+  }
+ },
+ {
+  "n": "NIA: What are palliative care and hospice care?",
+  "u": "https://www.nia.nih.gov/health/hospice-and-palliative-care/what-are-palliative-care-and-hospice-care",
+  "w": "gov",
+  "t": [
+   "understand"
+  ],
+  "L": [
+   "en"
+  ],
+  "d": {
+   "en": "Clear comparison of palliative and hospice care.",
+   "es": "Comparación clara entre cuidados paliativos y hospicio.",
+   "vi": "So sánh rõ ràng giữa chăm sóc giảm nhẹ và hospice.",
+   "zh": "清楚比較緩和醫療與安寧療護。"
+  }
+ },
+ {
+  "n": "CaringInfo",
+  "u": "https://www.caringinfo.org",
+  "w": "np",
+  "t": [
+   "plan",
+   "understand",
+   "grief"
+  ],
+  "L": [
+   "en",
+   "es"
+  ],
+  "d": {
+   "en": "Free state-by-state advance directive forms and guides to hospice, caregiving, and grief.",
+   "es": "Formularios gratuitos de directivas anticipadas por estado y guías sobre hospicio, cuidados y duelo.",
+   "vi": "Mẫu chỉ thị chăm sóc trước miễn phí theo từng tiểu bang và hướng dẫn về hospice, chăm sóc và mất mát.",
+   "zh": "各州免費預立醫療指示表格，以及安寧療護、照顧與哀傷指南。"
+  }
+ },
+ {
+  "n": "Hospice Foundation of America",
+  "u": "https://hospicefoundation.org",
+  "w": "np",
+  "t": [
+   "understand",
+   "grief"
+  ],
+  "L": [
+   "en"
+  ],
+  "d": {
+   "en": "Education on hospice, end-of-life choices, caregiving, and grief.",
+   "es": "Educación sobre hospicio, decisiones al final de la vida, cuidados y duelo.",
+   "vi": "Kiến thức về hospice, lựa chọn cuối đời, chăm sóc và mất mát.",
+   "zh": "安寧療護、臨終選擇、照顧與哀傷的衛教資訊。"
+  }
+ },
+ {
+  "n": "GetPalliativeCare.org",
+  "u": "https://getpalliativecare.org",
+  "w": "prog",
+  "t": [
+   "understand",
+   "find"
+  ],
+  "L": [
+   "en"
+  ],
+  "d": {
+   "en": "Palliative care explained by illness, with a provider directory.",
+   "es": "Cuidados paliativos explicados por enfermedad, con directorio de proveedores.",
+   "vi": "Giải thích chăm sóc giảm nhẹ theo từng bệnh, kèm danh mục nơi cung cấp.",
+   "zh": "依疾病說明緩和醫療，並提供機構目錄。"
+  }
+ },
+ {
+  "n": "The Conversation Project",
+  "u": "https://theconversationproject.org",
+  "w": "prog",
+  "t": [
+   "plan"
+  ],
+  "L": [
+   "en",
+   "es",
+   "vi",
+   "zh"
+  ],
+  "d": {
+   "en": "Free starter kits for talking with loved ones about end-of-life wishes, in many languages.",
+   "es": "Guías gratuitas para hablar con sus seres queridos sobre sus deseos, en varios idiomas.",
+   "vi": "Bộ tài liệu miễn phí giúp trò chuyện với người thân về mong muốn cuối đời, bằng nhiều ngôn ngữ.",
+   "zh": "免費的談話入門手冊，協助與家人討論臨終意願，提供多種語言。"
+  }
+ },
+ {
+  "n": "PREPARE for Your Care",
+  "u": "https://prepareforyourcare.org",
+  "w": "prog",
+  "t": [
+   "plan",
+   "local"
+  ],
+  "L": [
+   "en",
+   "es",
+   "vi",
+   "zh"
+  ],
+  "d": {
+   "en": "Video program and easy-to-read advance directives; California form in Spanish, Vietnamese, and Chinese.",
+   "es": "Programa en video y directivas fáciles de leer; formulario de California en español, vietnamita y chino.",
+   "vi": "Chương trình video và mẫu chỉ thị dễ đọc; mẫu California có tiếng Việt, Tây Ban Nha và Trung.",
+   "zh": "影片課程和易讀的預立醫療指示；加州表格有中文、西班牙文和越南文版本。"
+  }
+ },
+ {
+  "n": "Five Wishes",
+  "u": "https://www.fivewishes.org",
+  "w": "np",
+  "t": [
+   "plan"
+  ],
+  "L": [
+   "en",
+   "es",
+   "vi",
+   "zh"
+  ],
+  "d": {
+   "en": "Widely used advance directive in everyday language, available in many languages.",
+   "es": "Directiva anticipada muy usada, en lenguaje cotidiano y en muchos idiomas.",
+   "vi": "Mẫu chỉ thị chăm sóc trước phổ biến, lời lẽ dễ hiểu, có nhiều ngôn ngữ.",
+   "zh": "廣泛使用、以日常語言撰寫的預立醫療指示，有多種語言版本。"
+  }
+ },
+ {
+  "n": "Coalition for Compassionate Care of California",
+  "u": "https://coalitionccc.org",
+  "w": "canp",
+  "t": [
+   "plan",
+   "local"
+  ],
+  "L": [
+   "en",
+   "es",
+   "vi",
+   "zh"
+  ],
+  "d": {
+   "en": "California advance directive forms and the official California POLST, with translations.",
+   "es": "Formularios de directivas de California y el POLST oficial, con traducciones.",
+   "vi": "Mẫu chỉ thị của California và mẫu POLST chính thức, có bản dịch.",
+   "zh": "加州預立醫療指示表格與官方 POLST 表格，附翻譯版本。"
+  }
+ },
+ {
+  "n": "Chinese American Coalition for Compassionate Care (CACCC)",
+  "u": "https://www.caccc-usa.org",
+  "w": "canp",
+  "t": [
+   "plan",
+   "grief",
+   "local"
+  ],
+  "L": [
+   "en",
+   "zh"
+  ],
+  "d": {
+   "en": "Chinese-language advance care planning and end-of-life education for Chinese American families.",
+   "es": "Educación en chino sobre planificación anticipada y final de la vida para familias chino-estadounidenses.",
+   "vi": "Giáo dục bằng tiếng Trung về lập kế hoạch chăm sóc trước và cuối đời cho gia đình người Mỹ gốc Hoa.",
+   "zh": "美華慈心關懷聯盟：為華人家庭提供中文的預立醫療計畫與臨終關懷教育。"
+  }
+ },
+ {
+  "n": "Hope Hospice (Dublin)",
+  "u": "https://www.hopehospice.com",
+  "w": "loc",
+  "t": [
+   "local",
+   "find",
+   "grief",
+   "care"
+  ],
+  "L": [
+   "en"
+  ],
+  "d": {
+   "en": "Tri-Valley nonprofit hospice since 1980, with community grief groups and caregiver classes.",
+   "es": "Hospicio sin fines de lucro de Tri-Valley desde 1980, con grupos de duelo y clases para cuidadores.",
+   "vi": "Hospice bất vụ lợi tại Tri-Valley từ 1980, có nhóm hỗ trợ mất mát và lớp học cho người chăm sóc.",
+   "zh": "自1980年起服務 Tri-Valley 的非營利安寧機構，提供社區哀傷團體和照顧者課程。"
+  }
+ },
+ {
+  "n": "By the Bay Health",
+  "u": "https://bythebayhealth.org",
+  "w": "loc",
+  "t": [
+   "local",
+   "find",
+   "kids"
+  ],
+  "L": [
+   "en"
+  ],
+  "d": {
+   "en": "UCSF Health affiliate offering hospice, palliative, and pediatric care across the Bay Area.",
+   "es": "Afiliada a UCSF Health; hospicio, cuidados paliativos y pediátricos en el Área de la Bahía.",
+   "vi": "Liên kết với UCSF Health; hospice, chăm sóc giảm nhẹ và nhi khoa khắp Vùng Vịnh.",
+   "zh": "UCSF Health 附屬機構，在灣區提供安寧、緩和及兒童照護。"
+  }
+ },
+ {
+  "n": "Mission Hospice & Home Care",
+  "u": "https://missionhospice.org",
+  "w": "loc",
+  "t": [
+   "local",
+   "find"
+  ],
+  "L": [
+   "en"
+  ],
+  "d": {
+   "en": "Peninsula and South Bay nonprofit with Mission House residential hospice.",
+   "es": "Sin fines de lucro de la Península y South Bay, con la casa de hospicio Mission House.",
+   "vi": "Bất vụ lợi vùng Peninsula và South Bay, có nhà hospice Mission House.",
+   "zh": "半島與南灣的非營利機構，設有安寧之家 Mission House。"
+  }
+ },
+ {
+  "n": "HICAP: California Medicare counseling",
+  "u": "https://aging.ca.gov/HICAP/",
+  "w": "ca",
+  "t": [
+   "pay",
+   "local"
+  ],
+  "L": [
+   "en",
+   "es"
+  ],
+  "d": {
+   "en": "Free, unbiased Medicare counseling in every county. Call 1-800-434-0222.",
+   "es": "Asesoría gratuita e imparcial sobre Medicare en todos los condados. Llame al 1-800-434-0222.",
+   "vi": "Tư vấn Medicare miễn phí, khách quan tại mọi quận. Gọi 1-800-434-0222.",
+   "zh": "各郡免費、中立的 Medicare 諮詢。請撥 1-800-434-0222。"
+  }
+ },
+ {
+  "n": "California Department of Aging",
+  "u": "https://aging.ca.gov",
+  "w": "ca",
+  "t": [
+   "care",
+   "local"
+  ],
+  "L": [
+   "en"
+  ],
+  "d": {
+   "en": "Find your local Area Agency on Aging and caregiver services. Call 1-800-510-2020.",
+   "es": "Encuentre su agencia local para adultos mayores y servicios para cuidadores. Llame al 1-800-510-2020.",
+   "vi": "Tìm cơ quan người cao niên địa phương và dịch vụ cho người chăm sóc. Gọi 1-800-510-2020.",
+   "zh": "查詢當地長者服務機構和照顧者服務。請撥 1-800-510-2020。"
+  }
+ },
+ {
+  "n": "Family Caregiver Alliance",
+  "u": "https://www.caregiver.org",
+  "w": "np",
+  "t": [
+   "care",
+   "local"
+  ],
+  "L": [
+   "en",
+   "es",
+   "zh"
+  ],
+  "d": {
+   "en": "San Francisco-based; fact sheets, online support groups, and caregiver services.",
+   "es": "Con sede en San Francisco; hojas informativas, grupos de apoyo en línea y servicios para cuidadores.",
+   "vi": "Trụ sở tại San Francisco; tài liệu, nhóm hỗ trợ trực tuyến và dịch vụ cho người chăm sóc.",
+   "zh": "總部在舊金山；提供資料、線上支持團體和照顧者服務。"
+  }
+ },
+ {
+  "n": "ARCH National Respite Network",
+  "u": "https://archrespite.org",
+  "w": "np",
+  "t": [
+   "care"
+  ],
+  "L": [
+   "en"
+  ],
+  "d": {
+   "en": "Help finding respite care so family caregivers can take a break.",
+   "es": "Ayuda para encontrar cuidado de relevo para que los cuidadores descansen.",
+   "vi": "Giúp tìm dịch vụ chăm sóc thay thế để người chăm sóc được nghỉ ngơi.",
+   "zh": "協助尋找喘息服務，讓家庭照顧者能休息。"
+  }
+ },
+ {
+  "n": "Eldercare Locator",
+  "u": "https://eldercare.acl.gov",
+  "w": "gov",
+  "t": [
+   "care",
+   "find"
+  ],
+  "L": [
+   "en",
+   "es"
+  ],
+  "d": {
+   "en": "National directory of local aging and caregiver services. Call 1-800-677-1116.",
+   "es": "Directorio nacional de servicios locales para adultos mayores. Llame al 1-800-677-1116.",
+   "vi": "Danh mục toàn quốc về dịch vụ cho người cao niên. Gọi 1-800-677-1116.",
+   "zh": "全國長者與照顧者在地服務目錄。請撥 1-800-677-1116。"
+  }
+ },
+ {
+  "n": "VA: Hospice care",
+  "u": "https://www.va.gov/geriatrics/pages/hospice_care.asp",
+  "w": "gov",
+  "t": [
+   "vets",
+   "pay"
+  ],
+  "L": [
+   "en"
+  ],
+  "d": {
+   "en": "How hospice works for veterans through the VA.",
+   "es": "Cómo funciona el hospicio para veteranos a través del VA.",
+   "vi": "Cách cựu chiến binh nhận dịch vụ hospice qua VA.",
+   "zh": "退伍軍人如何透過退伍軍人事務部使用安寧療護。"
+  }
+ },
+ {
+  "n": "We Honor Veterans",
+  "u": "https://www.wehonorveterans.org",
+  "w": "prog",
+  "t": [
+   "vets"
+  ],
+  "L": [
+   "en"
+  ],
+  "d": {
+   "en": "End-of-life resources that respect military service.",
+   "es": "Recursos para el final de la vida que honran el servicio militar.",
+   "vi": "Nguồn thông tin cuối đời tôn vinh sự phục vụ quân đội.",
+   "zh": "尊重軍人服役經歷的臨終資源。"
+  }
+ },
+ {
+  "n": "Alzheimer's Association",
+  "u": "https://www.alz.org",
+  "w": "np",
+  "t": [
+   "illness",
+   "care"
+  ],
+  "L": [
+   "en",
+   "es",
+   "vi",
+   "zh"
+  ],
+  "d": {
+   "en": "Dementia care information and a 24/7 helpline with interpreters: 1-800-272-3900.",
+   "es": "Información sobre demencia y línea de ayuda 24/7 con intérpretes: 1-800-272-3900.",
+   "vi": "Thông tin về sa sút trí tuệ và đường dây 24/7 có thông dịch: 1-800-272-3900.",
+   "zh": "失智症照護資訊，24小時熱線提供口譯：1-800-272-3900。"
+  }
+ },
+ {
+  "n": "American Cancer Society",
+  "u": "https://www.cancer.org",
+  "w": "np",
+  "t": [
+   "illness"
+  ],
+  "L": [
+   "en",
+   "es",
+   "vi",
+   "zh"
+  ],
+  "d": {
+   "en": "Cancer information, including materials in other languages.",
+   "es": "Información sobre el cáncer, con materiales en otros idiomas.",
+   "vi": "Thông tin về ung thư, có tài liệu bằng nhiều ngôn ngữ.",
+   "zh": "癌症資訊，包括其他語言的資料。"
+  }
+ },
+ {
+  "n": "Courageous Parents Network",
+  "u": "https://courageousparentsnetwork.org",
+  "w": "np",
+  "t": [
+   "kids",
+   "illness"
+  ],
+  "L": [
+   "en"
+  ],
+  "d": {
+   "en": "Videos and guides for parents of children with serious illness.",
+   "es": "Videos y guías para padres de niños con enfermedades graves.",
+   "vi": "Video và hướng dẫn cho cha mẹ có con bệnh nặng.",
+   "zh": "給重病兒童父母的影片與指南。"
+  }
+ },
+ {
+  "n": "Dougy Center",
+  "u": "https://www.dougy.org",
+  "w": "np",
+  "t": [
+   "grief",
+   "kids"
+  ],
+  "L": [
+   "en",
+   "es"
+  ],
+  "d": {
+   "en": "Grief resources for children, teens, families, and schools.",
+   "es": "Recursos de duelo para niños, adolescentes, familias y escuelas.",
+   "vi": "Tài liệu về mất mát cho trẻ em, thiếu niên, gia đình và trường học.",
+   "zh": "給兒童、青少年、家庭和學校的哀傷資源。"
+  }
+ },
+ {
+  "n": "What's Your Grief",
+  "u": "https://whatsyourgrief.com",
+  "w": "ind",
+  "t": [
+   "grief"
+  ],
+  "L": [
+   "en"
+  ],
+  "d": {
+   "en": "Practical articles on living with grief, by mental health professionals.",
+   "es": "Artículos prácticos sobre el duelo, escritos por profesionales de salud mental.",
+   "vi": "Bài viết thực tế về sống cùng mất mát, do chuyên gia sức khỏe tâm thần viết.",
+   "zh": "由心理健康專業人員撰寫的實用哀傷文章。"
+  }
+ },
+ {
+  "n": "988 Suicide and Crisis Lifeline",
+  "u": "https://988lifeline.org",
+  "w": "gov",
+  "t": [
+   "grief",
+   "crisis"
+  ],
+  "L": [
+   "en",
+   "es",
+   "vi",
+   "zh"
+  ],
+  "d": {
+   "en": "Free, confidential support 24/7 by call, text, or chat, with interpreters.",
+   "es": "Apoyo gratuito y confidencial 24/7 por llamada, mensaje o chat, con intérpretes.",
+   "vi": "Hỗ trợ miễn phí, bảo mật 24/7 qua điện thoại, tin nhắn hoặc trò chuyện, có thông dịch.",
+   "zh": "24小時免費保密支持，可撥打、傳訊或線上聊天，提供口譯。"
+  }
+ },
+ {
+  "n": "Livanta: Medicare quality concerns",
+  "u": "https://www.livantaqio.cms.gov/en",
+  "w": "gov",
+  "t": [
+   "pay",
+   "find"
+  ],
+  "L": [
+   "en"
+  ],
+  "d": {
+   "en": "File a complaint about care quality or appeal a hospice discharge.",
+   "es": "Presente una queja sobre la calidad o apele un alta del hospicio.",
+   "vi": "Khiếu nại về chất lượng chăm sóc hoặc kháng nghị việc bị cho xuất viện khỏi hospice.",
+   "zh": "投訴照護品質或對安寧出院提出申訴。"
+  }
+ }
+]
